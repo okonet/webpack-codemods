@@ -1,0 +1,20 @@
+{
+  "name": "webpack-codemods",
+  "version": "1.0.0",
+  "description": "JS Codemod to automatically convert webpack config from v1 to v2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okonet/webpack-codemods.git"
+  },
+  "keywords": [],
+  "author": "Andrey Okonetchnikov <andrey@okonet.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okonet/webpack-codemods/issues"
+  },
+  "homepage": "https://github.com/okonet/webpack-codemods#readme"
+}
