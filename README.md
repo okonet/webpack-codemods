@@ -3,9 +3,7 @@
 
 🚧🚧🚧🚧🚧🚧
 
-WIP! Please don't use it!
-
-Also looks like https://github.com/webpack/webpack-cli/tree/master/lib/transformations already have most of the transformations in place so this repository will be depreacted!
+This repository is deprecated in favor of https://github.com/webpack/webpack-cli/tree/master/lib/transformations where I continue to work on it. You can follow it here: https://github.com/webpack/webpack-cli/pull/40
 
 🚧🚧🚧🚧🚧🚧
 
